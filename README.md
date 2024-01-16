@@ -46,7 +46,7 @@ z h i e a .   p d r s l
 - Learning this layout forced me to use homerow mods, which I had been intending to do for a long time.
 - And lastly, of course, I love `you`, reader. <3
 
-### Here are some things I *don't* like:
+### Here's what I *don't* like:
 - The `nrm` column is the sad spot for this layout, as these letters combine with each other as SFBs and skipgrams fairly frequently. SFBs are mostly solved by the `magic` key (detailled below), but the skipgrams must be tanked by my middle finger, and while it does this comfortably, it still wouldn't *have* to, ideally.
   - An earlier iteration saw some rotations and an `xlm` consonant pinky for lower SFBs and "better stats", but my pinky was on fire, and not in a good way.
 - This layout did *not* cure my mental illness.
