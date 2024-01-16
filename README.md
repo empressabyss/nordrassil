@@ -27,7 +27,7 @@ z h i e a .   p d r s l
 
 ## Analyser statistics
 ### [Cyanophage](https://cyanophage.github.io/index.html)
-![alt text](https://i.imgur.com/ODcQI0j.png "Nordrassil Stats - Cyanophage")
+![alt text](https://i.imgur.com/hLHEQVb.png "Nordrassil Stats - Cyanophage")
 
 
 ### [Layout Playground](https://oxey.dev/playground/index.html)
