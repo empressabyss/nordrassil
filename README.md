@@ -38,7 +38,7 @@ z h i e a .   p d r s l
 
 ## Some musings
 ### Things I love about **N**or**dr**as**s**i**l**:
-- Extremely low redirects, pinky/ring scissors, a near 3:1 in:out rolling ratio, a good balance between rolls and alternation, and `repeat` and `magic` keys make typing feel effortless, elegant, and deeply satisfying.
+- Extremely low redirects and pinky/ring scissors, a near 3:1 in:out rolling ratio, a good balance between rolls and alternation, and `repeat` and `magic` keys make typing feel effortless, elegant, and deeply satisfying.
 - Mentally, the 83:1 ratio for in:out-rolls that `h`-vowels boasts is enough to make me weep.
 - Having `t` on the consonant hand's thumb is much nicer that `r` as I've had in the past.
 - `qu` and `ld`--I absolutely adore pinky-and-index rolls! `could`, `should`, `queen`, etc. are wonderful. I also have this pattern on my symbols layer, for `<3`.
