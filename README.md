@@ -108,7 +108,9 @@ N/A.
 
 In the Warcraft universe, Nordrassil is the sacred World Tree of the night elves, which grew over the Well of Eternity atop the summit of Mount Hyjal. Standing thousands of kilometers tall, its roots grow deep in the earth, spreading life-giving energy across the world.
 
-This layout was almost called Yg**gdr**as**s**i**l**, before I realised that **N**or**dr**as**s**i**l** was even more magnificent!~
+As an extra branch of fun (something I realised months after creating **N**or**dr**as**s**i**l**), when read bottom-to-top, **N**or**dr**as**s**i**l** becomes **T**el**dr**as**s**i**l**. Teldrassil is the second World Tree---that sprouted from an acorn of the first---and became home to the Night Elves. Given that both `t` and `n` were the most important letter-placement decisions through the design process, the fact that it turned out so mnemonically perfect like this is mindblowingly satisfying. A~~n Emerald~~ dream come true.
+
+In its early stages, this layout was almost called Yg**gdr**as**s**i**l**, before I realised that **N**or**dr**as**s**i**l** was even more magnificent.
 
 ## Other links
 ### My full QMK keymap, Hyjal
