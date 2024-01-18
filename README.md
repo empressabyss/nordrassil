@@ -41,7 +41,7 @@ z h i e a .   p d r s l
 - Extremely low redirects and pinky/ring scissors, a near 3:1 in:out rolling ratio, a good balance between rolls and alternation, and `repeat` and `magic` keys make typing feel effortless, elegant, and deeply satisfying.
 - Mentally, the 83:1 ratio for in:out-rolls that `h`-vowels boasts is enough to make me weep.
 - Having `t` on the consonant hand's thumb is much nicer that `r` as I've had in the past.
-- `qu` and `ld`--I absolutely adore pinky-and-index rolls! `could`, `should`, `queen`, etc. are wonderful. I also have this pattern on my symbols layer, for `<3`.
+- `qu` and `ld`I absolutely adore pinky-and-index rolls! `could`, `should`, `queen`, etc. are wonderful. I also have this pattern on my symbols layer, for `<3`.
 - Any words that include `ng`, `nd` or `rd`  go extremely hard due to index + middle finger rolling.
 - Learning this layout forced me to use homerow mods, which I had been intending to do for a long time.
 - And lastly, of course, I love `you`, reader. <3
@@ -57,7 +57,7 @@ z h i e a .   p d r s l
 - I consider the verticality of rolls to be important, and 'downward' rolls are comfier than 'upward' ones. I'd suppose this is because our fingers have more strength in curling than extending (like a crocodile's maw!).
 - `n` rolls predominantly as `n`-to-consonant, so in this position, it rolls downwards fairly consistently.
 - `r` rolls both ways with any letter without much overall bias which would cause many and various 'upward' rolls if placed on the top row.
-- placing `r` on the central, middle finger homerow position of the hand feels 'grounding' (I wish I could explain this feeling a bit better)
+- placing `r` on the central, middle finger homerow position of the hand feels 'grounding'. "All roads lead to and from `r`.", or... something like that.
 
 ## Further optimisations
 From the beginning, I included a [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key in this layout, and about a month in, averaging ~65wpm, I added a [`magic`](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md "Ikcelaks' Write-Up of 'Magic Sturdy'") key as well.
@@ -108,7 +108,7 @@ N/A.
 
 In the Warcraft universe, Nordrassil is the sacred World Tree of the night elves, which grew over the Well of Eternity atop the summit of Mount Hyjal. Standing thousands of kilometers tall, its roots grow deep in the earth, spreading life-giving energy across the world.
 
-As an extra branch of fun (something I realised months after creating **N**or**dr**as**s**i**l**), when read bottom-to-top, **N**or**dr**as**s**i**l** becomes **T**el**dr**as**s**i**l**. Teldrassil is the second World Tree---that sprouted from an acorn of the first---and became home to the Night Elves. Given that both `t` and `n` were the most important letter-placement decisions through the design process, the fact that it turned out so mnemonically perfect like this is mindblowingly satisfying. A~~n Emerald~~ dream come true.
+As an extra branch of fun (something I realised months after creating **N**or**dr**as**s**i**l**), when read bottom-to-top, **N**or**dr**as**s**i**l** becomes **T**el**dr**as**s**i**l**. Teldrassil is the second World Tree--that sprouted from an acorn of the first--and became home to the Night Elves. Given that both `t` and `n` were the most important letter-placement decisions through the design process, the fact that it turned out so mnemonically perfect like this is mindblowingly satisfying. A~~n Emerald~~ dream come true.
 
 In its early stages, this layout was almost called Yg**gdr**as**s**i**l**, before I realised that **N**or**dr**as**s**i**l** was even more magnificent.
 
