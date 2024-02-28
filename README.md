@@ -4,8 +4,9 @@
   q y o u -   j g n f k
 z h i e a .   p d r s l
   x ' / , ;   b c m w v
-        ␣       t
+        ␣ *     t
 ```
+`*` denotes a `repeat` key.
 
 ## Design
 ### The specific ideas that I brought with me on this quest were:
