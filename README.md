@@ -6,7 +6,7 @@ z h i e a .   p d r s l
   x ' / , ;   b c m w v
         ␣ *     t
 ```
-`*` denotes a `repeat` key.
+`*` denotes the `repeat` key.
 
 ## Design
 ### The specific ideas that I brought with me on this quest were:
