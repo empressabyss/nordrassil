@@ -12,7 +12,7 @@ z h i e a .   p d r s l
 1. Take advantage of a thumb-alpha to alleviate other design restrictions (this became `t`).
 2. On the consonant hand, use the top row middle finger key to its utmost potential (this became `n`).
 3. Create a high-frequency middle->index roll on the top row (this became `ng`).
-4. Utilise a `repeat` key (this allowed `s` and `l`, which repeat frequently, to sit on weaker fingers).
+4. Utilise a `repeat` key on a thumb (this allowed `s` and `l`, which repeat frequently, to sit on weaker fingers).
 
 ### As **N**or**dr**as**s**i**l** took root, these ideas also were incorporated, based on taste:
 - The vowel hand has slightly higher use if we include `space` and `repeat`, but the consonant hand has higher *movement*, which is more taxing (it's roughly a 40/60 split). I'd suggest mirroring the layout if you are left-handed.
