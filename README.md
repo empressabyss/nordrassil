@@ -112,7 +112,7 @@ I'm sure the wizards among you can find a way to base their function on matrix p
 
 ### Caveats
 - Layouts with a thumb-alpha (like **N**or**dr**as**s**i**l** lol xd) will unfortunately have to have said alpha as an *alternate* instead of an in-roll to avoid it being an SFB. I've had no issues with this in practice (muscle memory is doing its job), but mentally its a bother due to inconsistency. Alas, to live is to suffer.
-- My `arcane` keys are set are on opposite thumb keys. They're symmetrically placed and intuitive to read as sisters or equivalents. `arcane` concept may not work so cleanly if your implementation looks more like [Magic Sturdy](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md), where `magic` is part of the alphas' 10x3.
+- My `arcane` keys are set are on opposite thumb keys. They're symmetrically placed and intuitive to read as sisters or equivalents. `arcane`'s concept may not work so cleanly if your implementation looks more like [Magic Sturdy](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md), where `magic` is part of the alphas' 10x3.
 
 ## ABYSSAL **N**OR**DR**AS**S**I**L**
 ```
