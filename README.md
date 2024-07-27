@@ -28,7 +28,7 @@ z h i e a .   p d r s l
 2. On the consonant hand, use the upper middle finger key to its utmost potential (this became `n`).
 3. Create a high-frequency middle->index roll on the top row (this became `ng`).
 4. Utilise a `repeat` key on a thumb (this allowed `s` and `l`, which repeat frequently, to sit on weaker fingers).
-	- Eventually, a `magic` key was added opposite `repeat`, and eventually this system matured into `arcane` keys.
+	- Eventually, a `magic` key was added opposite `repeat`, and eventually this system matured into [`arcane`](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) keys.
 
 ### As **N**or**dr**as**s**i**l** took root, these ideas also were incorporated:
 - The vowel hand has slightly higher use if we include `space` and `repeat`, but the consonant hand has higher *movement*, which is more taxing (it's roughly a 40 / 60 split). I'd suggest mirroring the layout if you are left-handed.
