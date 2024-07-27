@@ -1,121 +1,163 @@
-# **N**or**dr**as**s**i**l**
-**N**or**dr**as**s**i**l** is a keyboard layout that provides an elegant and balanced typing experience by its use of a thumb-alpha, emphasis on middle fingers, and de-prioritisation of pinkies.
+# **N**OR**DR**AS**S**I**L**
+**N**or**dr**as**s**i**l** is a keyboard layout that provides an elegant and balanced typing experience by its use of a thumb-alpha, emphasis on middle fingers, deprioritisation of pinkies, and [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key (or [`arcane`](https://github.com/empressabyss/nordrassil/edit/main/README.md#arcane) keys).
+
+**Vanilla** **N**or**dr**as**s**i**l** (likely preferable to most)
 ```
-  q y o u -   j g n f k
+  j y o u -   q g n f x
 z h i e a .   p d r s l
-  x ' / , ;   b c m w v
+  k ' / , ;   b c m w v
         ␣ *     t
 ```
-`*` denotes the `repeat` key.
+`*` denotes a [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key. It isn't essential, but highly recommended.
 
-## Design
+___
+
+**Abyssal** **N**or**dr**as**s**i**l** (my personal variant)
+```
+  q y o u -   b g n m k
+z h i e a .   p d r s l
+  x / ' , ;   j c f w v
+        ␣ ⟐  ⟐ t 
+```
+ `⟐` denotes my `arcane` keys (see [**`ARCANE ⟐`**](https://github.com/empressabyss/nordrassil/edit/main/README.md#arcane) section for details)
+ 
+## DESIGN 
 ### The specific ideas that I brought with me on this quest were:
 1. Take advantage of a thumb-alpha to alleviate other design restrictions (this became `t`).
-2. On the consonant hand, use the top row middle finger key to its utmost potential (this became `n`).
+2. On the consonant hand, use the upper middle finger key to its utmost potential (this became `n`).
 3. Create a high-frequency middle->index roll on the top row (this became `ng`).
 4. Utilise a `repeat` key on a thumb (this allowed `s` and `l`, which repeat frequently, to sit on weaker fingers).
+	- Eventually, a `magic` key was added opposite `repeat`, and eventually this system matured into `arcane` keys.
 
-### As **N**or**dr**as**s**i**l** took root, these ideas also were incorporated, based on taste:
-- The vowel hand has slightly higher use if we include `space` and `repeat`, but the consonant hand has higher *movement*, which is more taxing (it's roughly a 40/60 split). I'd suggest mirroring the layout if you are left-handed.
+### As **N**or**dr**as**s**i**l** took root, these ideas also were incorporated:
+- The vowel hand has slightly higher use if we include `space` and `repeat`, but the consonant hand has higher *movement*, which is more taxing (it's roughly a 40 / 60 split). I'd suggest mirroring the layout if you are left-handed.
 - `iy`, `eo`, `au` vowel block is used, flanked by `h` to maximise left-hand in-rolling and minimise redirects.
-  - Naturally, punctuation is on this hand, which is often not used during casual chats. This alleviates some responsibility of the left hand at those times, further minimising movement, and eliminating lateral index stretches.
-- `t`, the most common consonant, was chosen on the for the thumb-alpha because it usually appears predictably at the beginning or end of words/syllables, which is easier to mentally parse than alternatives such as `e` or `r`, that would appear anywhere in a word.
+  - Naturally, punctuation is on this hand, which is often not used during casual chats. This alleviates some responsibility of the left hand at those times, further minimising movement, and eliminating lateral index stretches entirely.
+- `t`, the most common consonant, was chosen on the for the thumb-alpha because it usually appears predictably at the beginning or end of words / syllables, which is easier to mentally parse than alternatives such as `e` or `r`, that would appear anywhere in a word.
   - This also answered the "`h`-vowels or `th` roll?" question that plagued my mind in previous layouts.
-- With the position of `n` (and `g`) decided, the `drsl` homerow sprouted, and the mnemonic, titular `ndrsl` homerow was formed.
+- With the position of `n` (and `g`) decided, the `drsl` homerow sprouted, and the mnemonic, titular `ndrsl` homerow coalesced.
 - Digits are appropriately burdened, based on strength and dexterity, and pinkies are especially deprioritised.
 - Extending fingers is preferred, except pinkies, which should curl.
-- Redirects, lateral stretches, and pinky/ring scissors are avoided, especially on the left hand.
-- Unrelated to **N**or**dr**as**s**i**l** specifically, I like to push `z` into a lateral pinky position in favour of another symbol key.
+- Redirects, lateral stretches, and pinky / ring scissors are avoided, especially on the left hand.
+- Unrelated to **N**or**dr**as**s**i**l** specifically, I like to push `z` into a lateral pinky position in favour of another symbol key: `/`. `z` can go on whichever pinky you prefer.
 
-## Analyser statistics
+## ANALYSER STATS
 ### [Cyanophage](https://cyanophage.github.io/index.html)
-![alt text](https://i.imgur.com/hLHEQVb.png "Nordrassil Stats - Cyanophage")
-
-
-### [Layout Playground](https://oxey.dev/playground/index.html)
-![alt text](https://i.imgur.com/wKF99xs.png "Nordrassil Stats - Layout Playground")
+![alt text](https://i.imgur.com/VRGQd1J.jpeg "Nordrassil Stats - Cyanophage")
 
 ### [Keysolve](https://clemenpine.github.io/keysolve-web/)
-![alt text](https://i.imgur.com/ZOy2KhK.png "Nordrassil Stats - Keysolve")
+![alt text](https://i.imgur.com/8u2yYn9.png "Nordrassil Stats - Keysolve")
 
-## Some musings
+### [Layout Playground](https://oxey.dev/playground/index.html)
+![alt text](https://i.imgur.com/zkGw5vQ.png "Nordrassil Stats - Layout Playground")
+
+## SOME MUSINGS
 ### Things I love about **N**or**dr**as**s**i**l**:
-- Extremely low redirects and pinky/ring scissors, a near 3:1 in:out rolling ratio, a good balance between rolls and alternation, and `repeat` and `magic` keys make typing feel effortless, elegant, and deeply satisfying.
-- Mentally, the 83:1 ratio for in:out-rolls that `h`-vowels boasts is enough to make me weep.
+- Extremely low redirects and pinky / ring scissors, a near 3:1 in:out rolling ratio, a good balance between rolls and alternation, and `repeat` make typing feel effortless, elegant, and deeply satisfying. Of the layouts I've learned (Qwerty, Dvorak, Hands Down Neu (kinda), two iterations of Just Rhea (an old layout of mine; writeup is a wip)), **N**or**dr**as**s**i**l** is by far my favourite.
+- The 83:1 ratio for in:out-rolls of the `hiea` homerow is such stuff as dreams are made on.
 - Having `t` on the consonant hand's thumb is much nicer that `r` as I've had in the past.
-- `qu` and `ld`I absolutely adore pinky-and-index rolls! `could`, `should`, `queen`, etc. are wonderful. I also have this pattern on my symbols layer, for `<3`.
-- Any words that include `ng`, `nd` or `rd`  go extremely hard due to index + middle finger rolling.
-- Learning this layout forced me to use homerow mods, which I had been intending to do for a long time.
+- `ld`! I absolutely adore pinky-and-index rolls! `could`, `should`, etc. are wonderful. I also have this pattern on my symbols layer, for `<3`.
+- Any words that include `ng`, `nd` or `rd`  go extremely hard due to index->middle finger rolling.
+- Learning this layout forced me to use homerow mods, which I had been intending to do for a long time. (This seems now to be my endgame mods system!)
 - And lastly, of course, I love `you`, reader. <3
 
-### Here's what I *don't* like:
-- The `nrm` column is the sad spot for this layout, as these letters combine with each other as SFBs and skipgrams fairly frequently. SFBs are mostly solved by the `magic` key (detailled below), but the skipgrams must be tanked by my middle finger, and while it does this comfortably, it still wouldn't *have* to, ideally.
-  - An earlier iteration saw some rotations and an `xlm` consonant pinky for lower SFBs and "better stats", but my pinky was on fire, and not in a good way.
-- This layout did *not* cure my mental illness.
+### The elekk in the room: `nrm`
+The `nrm` column seems at first to be a rather sore point of **N**or**dr**as**s**i**l**, as these letters combine with each other as SFBs moderately, and 2u skipgrams quite a lot. However, middle fingers are effectively invincible, and can tank anything you throw at them. One of **N**or**dr**as**s**i**l**'s core goals is to take advantage of that fact.
+
+Almost *half of all SFBs*, and *three-quarters of 2u skipgrams* are given to the middle fingers. They brush these blows off, granting the rest of the party the space they need to cast their own spells.
+
+I will admit that I had an initial scepticism of `nrm`'s viability, but real experience dispelled it entirely, and I no longer believe that this column is problematic. Earlier, pre-release iterations of **N**or**dr**as**s**i**l** did attempt to solve the anticipated pain, but the results were considerable downgrades and always skewed workload to more more fragile fingers.
 
 ### Why not place the higher-frequency `n` on the homerow, instead of `r`?
-`n` is a better candidate for the upper middle-finger position than I initially realised when **N**or**dr**as**s**i**l** was but a sapling. Creating a layout with a deliberate priority for the upper middle-finger key was an experiment in creativity, and the resulting choice to give that place to `n` was initially based on intuition. Many moons later, a revelation visited me...
-
-- I consider the verticality of rolls to be important, and 'downward' rolls are comfier than 'upward' ones. I'd suppose this is because our fingers have more strength in curling than extending (like a crocodile's maw!).
+`n` is a better candidate for the upper middle-finger position than I initially realised when **N**or**dr**as**s**i**l** was a sapling. Creating a layout with a deliberate priority for the upper middle-finger key was an experiment in creativity, and the resulting choice to give that place to `n` was initially based on intuition. Moons later, I managed to find the words to explain it:
+- I consider the verticality of rolls to be important, and 'downward' rolls are comfier than 'upward' ones. I'd suppose this is because our fingers have more strength in curling than extending (like a crocolisk's maw!).
 - `n` rolls predominantly as `n`-to-consonant, so in this position, it rolls downwards fairly consistently.
 - `r` rolls both ways with any letter without much overall bias which would cause many and various 'upward' rolls if placed on the top row.
-- placing `r` on the central, middle finger homerow position of the hand feels 'grounding'. "All roads lead to and from `r`.", or... something like that.
 
-## Further optimisations
-From the beginning, I included a [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key in this layout, and about a month in, averaging ~65wpm, I added a [`magic`](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md "Ikcelaks' Write-Up of 'Magic Sturdy'") key as well.
+## `REPEAT` AND `MAGIC`
+From **N**or**dr**as**s**i**l**'s conceptual stage, I included a [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key, and about a month into learning it, I added a [`magic`](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md "Ikcelaks' Write-Up of 'Magic Sturdy'") key as well. Eventually, I hybridised these to create my [`arcane ⟐`](https://github.com/empressabyss/nordrassil/edit/main/README.md#arcane) keys, which have superseded `repeat` and `magic` entirely for me!
 
-The full layout I use looks like this:
+A `repeat` key is a wonderful addition to any layout, providing you have a spare thumb key at your disposal! Double-letter SFBs make up a total of ~2.5% of all bigrams, and are only [slightly better than most other SFBs](https://old.reddit.com/r/KeyboardLayouts/comments/191i64f/actual_bigram_typing_data_from_136_million/); a `repeat` key solves this, by turning every double-letter SFB into an inward roll or alternate. If KLAs included double-letter SFBs in their SFB calculations, most modern layouts would have their total SFBs *tripled*, or worse! A `repeat` key offers an excellent enhancement to a layout at the cost of very little cognitive load--it is very easy to recommend.
+
+A `magic` key on the other hand is less clear with what it offers, as the 'library' you use is self-set and deeply personal, and the cognitive load can be quite noticeable compared to `repeat`.
+
+Personally, I treat the `magic` similarly to `combos`, where for them to feel worthwhile, they must save time by sending a multi-character string, or preventing chording / hand contortions. I didn't find the usual SFB-reducing possibilities of `magic` to work for me.
+
+For a more detailed look at `magic` and its uses, see Ikcelaks' write-up of *Magic Sturdy* [here](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md "Ikcelaks' Write-Up of 'Magic Sturdy'")!
+
+## `ARCANE ⟐`
+More recently, I wound up creating a hybridised version of `repeat` and `magic` keys, which I call `arcane` keys, represented by `⟐`. `arcane`'s output is dynamically changed based on the preceding key, as expected, but it crucially also factors in which *hand* pressed the preceding key.
+
+[Here is my original reddit post where my `arcane` keys debuted](https://www.reddit.com/r/KeyboardLayouts/comments/1cb2v3l/showcasing_my_implementation_of_hybrid_repeat/), which contains some discussion! The body of the post is more or less just the text written in the sections below, though.
+
+### Usage
+If the preceding key is on the **same hand** as the `arcane` key, it acts as a `repeat` key. This creates an inward roll for any letter that must repeat: finger->thumb. Double letters make up ~2.5% of all bigrams, which is a significant increase to inward rolling for *any layout*.
+
+If the preceding key is on the **opposite hand** to the `arcane` key, it acts as `magic`, which, as mentioned in above, will provide varied benefits completely decided by the individual. 
+
+### Showcase
+Here is a video showcasing the way `arcane` works in practice: https://www.youtube.com/watch?v=P8a-Mzgbl8c
+
+The innermost thumb keys are the `arcane` keys, and each use of them in this video is for the `repeat` functionality only. This hopefully shows that the rhythm gained by this implementation is quite nice and flows smoothly. I found that having my left hand be responsible for `repeat` entirely was noticeably taxing, and splitting it between both hands like this solved that in addition to improving in-rolling stats.
+
+As an aside, my key labelled `j` is set to `backspace` in this showcase, because I'm currently on an arduous quest to figure out where I like it to lay.
+
+### Implementation
+My simple implementation is to define two [custom alternate repeat keys](https://docs.qmk.fm/#/feature_repeat_key?id=additional-alternate-keys) (one for each hand) and manually curate a library of outputs. This is very human-readable and easy to understand and configure, but the initial setup could be a bother. I haven't set up a repository for my keymap on Github, but here's a pastebin copy of my `keymap.c`, which contains everything you'll need: https://pastebin.com/j0pfKzBR
+
+I will also gladly help anyone with this implementation if they run into issues! <3 You can message me on reddit; /u/empressabyss.
+
+I'm sure the wizards among you can find a way to base their function on matrix positions and *actually* call `repeat` or `magic` case-by-case, and I will leave that possibility in your very capable hands. I'm just a girl in a world.
+
+### Caveats
+- Layouts with a thumb-alpha (like **N**or**dr**as**s**i**l** lol xd) will unfortunately have to have said alpha as an *alternate* instead of an in-roll to avoid it being an SFB. I've had no issues with this in practice (muscle memory is doing its job), but mentally its a bother due to inconsistency. Alas, to live is to suffer.
+- My `arcane` keys are set are on opposite thumb keys. They're symmetrically placed and intuitive to read as sisters or equivalents. `arcane` concept may not work so cleanly if your implementation looks more like [Magic Sturdy](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md), where `magic` is part of the alphas' 10x3.
+
+## ABYSSAL **N**OR**DR**AS**S**I**L**
 ```
-  q y o u -   j g n f k
+  q y o u -   b g n m k
 z h i e a .   p d r s l
-  x ' / , ;   b c m w v
-        ␣ *   & t
+  x / ' , ;   j c f w v
+        ␣ ⟐  ⟐ t 
 ```
-`*` denotes the [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key, and `&` the [`magic`](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md "Ikcelaks' Write-Up of 'Magic Sturdy'") key.
+`⟐` are my `arcane` keys.
 
-I believe that a `repeat` key is a wonderful addition to any layout, providing you have a spare thumb key at your disposal! Double-letter SFBs make up a total of ~2.5% of all bigrams, and are only [slightly better than most other SFBs](https://old.reddit.com/r/KeyboardLayouts/comments/191i64f/actual_bigram_typing_data_from_136_million/); a `repeat` key solves this, by turning every double-letter SFB into an inward roll or alternate. If KLAs included double-letter SFBs in their SFB calculations, most modern layouts would have their total SFBs *tripled*, or worse! A `repeat` key offers an excellent enhancement to a layout at the cost of very little cognitive load--it is very easy to recommend.
+This is the variant that I personally use (as of 2024-07-27), which is much closer to **N**or**dr**as**s**i**l**'s original release, as that was designed specifically for my keyboard, hands, and taste (whereas *Vanilla* is designed to be better for the general audience).
 
-A `magic` key on the other hand is less clear with what it offers, as the 'library' you use is self-set and deeply personal, and the cognitive load can be quite noticible. I tend to think of at as an "SFB-removal key", but as I use it more, I'm wondering if its true power lies in its ability to send strings to complete common n-grams in fewer keystrokes. Regardless, it is a powerful and versatile tool that you might also like to try! For a more detailed look, take a look at Ikcelaks' write-up of Magic Sturdy [here](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md "Ikcelaks' Write-Up of 'Magic Sturdy'")!
+Key changes:
+- `k` swapped with `x` to lower redirects and skew workload away from my weak left pinky.
+- `q` swapped to be with `you` for a pinky->index roll when typing `qu`. I also love it mnemonically!!
+- `b` moved to the upper lateral index position, because I don't like the way my hand scrunches up to press the lower position.
+- `j`, then, takes the lower position, as it is an extremely rare letter.
+- `'` is swapped `/` because it gives more work to the middle finger (a core goal of **N**or**dr**as**s**i**l**) and feels more intuitive to my hand. Overall, I don't feel strongly about this change, and I go back and forth from time to time.
 
-## Variations
-### Bring `z` back
-I type (and speak!) British English, where `z` is even more rare than in American English. Other than in the layout itself, or talking about `z`, this page has no cases of `z` being used! For this reason, I exclude it from the usual 10x3 matrix and place it in a lateral pinky position (or on a combo). I know this isn't for everyone; were I to bring `z` back, I'd replace `/`, and arrange the layout as follows:
+## KEY COMFORT MATRIX
+For a little more context for my decision-making, I thought the key comfort matrix that I used while designing **N**or**dr**as**s**i**l** would be useful to see.
 
-```
-k y o u -   q g n f z
-h i e a .   p d r s l
-x j ' , ;   b c m w v
-      ␣       t
-```
-
-To avoid SFBs, this change must make a few small rotations, most notable of which is `k` swapping hands. Compared to vanilla **N**or**dr**as**s**i**l**, this swap marginally lowers SFBs at the cost of increasing redirects and scissors a bit, and it transfers ~1% on finger load to the left pinky. I personally prefer `q` with `you`, but `k` is a good candidate, and works with this `z`-variation a bit better than `q`.
-
-### Lean further into `magic`
-This was as experimental variation I made in order to maximise the use that `magic` would get. In vanilla **N**or**dr**as**s**i**l**, `magic` can't solve for both the `rn` and `rm` SFBs, which are equally common, and that bothers me some. With `f` and `m` swapped, `magic` now solves `fr` with much greater consistency!
+Each position considers the assigned finger's strength and dexterity, and the effort required to move from the home position during regular typing. Everyone will have a different opinion about this, but this should help to contextualise some decisions I made.
 
 ```
-  q y o u -   j g n m k
-z h i e a .   p d r s l
-  x ' / , ;   b c f w v
-        ␣ *   & t
+A lower value is better~
+
+  9 7 1 3 8   8 3 1 4 7
+9 2 1 0 0 7   7 0 0 1 2 9
+  5 6 3 4 8   9 4 3 6 5
+          0   0
 ```
 
-This variation achieved its goal of making better use of `magic`, but I found that `m` felt odd up there for probably personal reasons. Also, the SFBs according to KLAs are quite a bit worse here, as they can't/don't account for `magic`. Still, I think this variation has merit, and I'd be interested to see what some other layouts might look like if they were changed to make fuller use of `magic`--or better yet, be designed from scratch with `magic` in mind!!
+Notice the keys in the upper pinky positions: for my hands, the left pinky is notably worse than the right pinky. This is reflected in the *Abyssal variant* of **N**or**dr**as**s**i**l**, which displaces `k` in favour of the lower-frequency `q`.
 
-## Entomology
-N/A.
-
-## Etymology
+## ETYMOLOGY
 **N**or**dr**as**s**i**l** is a mnemonic expansion of the defining features of the layout: its middle finger, top-row `n`, and unique `drsl` homerow.
 
-In the Warcraft universe, Nordrassil is the sacred World Tree of the night elves, which grew over the Well of Eternity atop the summit of Mount Hyjal. Standing thousands of kilometers tall, its roots grow deep in the earth, spreading life-giving energy across the world.
+In Warcraft, Nordrassil is the sacred World Tree of the night elves, which grew over the Well of Eternity atop the summit of Mount Hyjal. Standing thousands of kilometers tall, its roots grow deep in the earth, spreading life-giving energy across the Azeroth.
 
-As an extra branch of fun (something I realised months after creating **N**or**dr**as**s**i**l**), when read bottom-to-top, **N**or**dr**as**s**i**l** becomes **T**el**dr**as**s**i**l**. Teldrassil is the second World Tree--that sprouted from an acorn of the first--and became home to the Night Elves. Given that both `t` and `n` were the most important letter-placement decisions through the design process, the fact that it turned out so mnemonically perfect like this is mindblowingly satisfying. A~~n Emerald~~ dream come true.
+As an extra branch of fun (something I realised months after creating **N**or**dr**as**s**i**l**), when read bottom-to-top, **N**or**dr**as**s**i**l** could become **T**el**dr**as**s**i**l**. Teldrassil is the second World Tree--that sprouted from an acorn of the first--and became home to the night elves. Given that both `t` and `n` were the most important letter-placement decisions through the design process, the fact that it turned out so mnemonically perfect like this is deliciously satisfying. A~~n Emerald~~ dream come true.
 
-In its early stages, this layout was almost called Yg**gdr**as**s**i**l**, before I realised that **N**or**dr**as**s**i**l** was even more magnificent.
+In its early stages, this layout was almost called Yg**gdr**as**s**i**l**, before I realised that **N**or**dr**as**s**i**l** was even more perfect.
 
-## Other links
-### My full QMK keymap, Hyjal
+## OTHER LINKS (wip lol rip)
+### **Hyjal**, my full keymap
 Naturally, **N**or**dr**as**s**i**l** sits atop **Hyjal**; you can find the write-up for my keymap here: [to-do]
 
 ### General keyboard theory
