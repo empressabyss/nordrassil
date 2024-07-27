@@ -1,5 +1,6 @@
 # **N**OR**DR**AS**S**I**L**
-**N**or**dr**as**s**i**l** is a keyboard layout that provides an elegant and balanced typing experience by its use of a thumb-alpha, emphasis on middle fingers, deprioritisation of pinkies, and [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key (or [`arcane`](https://github.com/empressabyss/nordrassil/edit/main/README.md#arcane) keys).
+**N**or**dr**as**s**i**l** is a keyboard layout that provides an elegant and balanced typing experience by its use of a thumb-alpha, emphasis on middle fingers, deprioritisation of pinkies, and [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key (or [`arcane`](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) keys).
+
 
 **Vanilla** **N**or**dr**as**s**i**l** (likely preferable to most)
 ```
@@ -19,7 +20,7 @@ z h i e a .   p d r s l
   x / ' , ;   j c f w v
         ␣ ⟐  ⟐ t 
 ```
- `⟐` denotes my `arcane` keys (see [**`ARCANE ⟐`**](https://github.com/empressabyss/nordrassil/edit/main/README.md#arcane) section for details)
+ `⟐` denotes my `arcane` keys (see [**`ARCANE ⟐`**](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) section for details)
  
 ## DESIGN 
 ### The specific ideas that I brought with me on this quest were:
@@ -75,7 +76,7 @@ I will admit that I had an initial scepticism of `nrm`'s viability, but real exp
 - `r` rolls both ways with any letter without much overall bias which would cause many and various 'upward' rolls if placed on the top row.
 
 ## `REPEAT` AND `MAGIC`
-From **N**or**dr**as**s**i**l**'s conceptual stage, I included a [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key, and about a month into learning it, I added a [`magic`](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md "Ikcelaks' Write-Up of 'Magic Sturdy'") key as well. Eventually, I hybridised these to create my [`arcane ⟐`](https://github.com/empressabyss/nordrassil/edit/main/README.md#arcane) keys, which have superseded `repeat` and `magic` entirely for me!
+From **N**or**dr**as**s**i**l**'s conceptual stage, I included a [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key, and about a month into learning it, I added a [`magic`](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md "Ikcelaks' Write-Up of 'Magic Sturdy'") key as well. Eventually, I hybridised these to create my [`arcane ⟐`](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) keys, which have superseded `repeat` and `magic` entirely for me!
 
 A `repeat` key is a wonderful addition to any layout, providing you have a spare thumb key at your disposal! Double-letter SFBs make up a total of ~2.5% of all bigrams, and are only [slightly better than most other SFBs](https://old.reddit.com/r/KeyboardLayouts/comments/191i64f/actual_bigram_typing_data_from_136_million/); a `repeat` key solves this, by turning every double-letter SFB into an inward roll or alternate. If KLAs included double-letter SFBs in their SFB calculations, most modern layouts would have their total SFBs *tripled*, or worse! A `repeat` key offers an excellent enhancement to a layout at the cost of very little cognitive load--it is very easy to recommend.
 
