@@ -4,9 +4,9 @@
 
 **Vanilla** **N**or**dr**as**s**i**l** (likely preferable to most)
 ```
-  j y o u -   q g n f x
-z h i e a .   p d r s l
-  k ' / , ;   b c m w v
+  j y o u -   q g n w x
+z h i e a .   c d r s l
+  k ' / , ;   b p m f v
         ␣ *     t
 ```
 `*` denotes a [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key. It isn't essential, but highly recommended.
@@ -16,8 +16,8 @@ ___
 **Abyssal** **N**or**dr**as**s**i**l** (my personal variant)
 ```
   q y o u -   b g n m k
-z h i e a .   p d r s l
-  x / ' , ;   j c f w v
+z h i e a .   c d r s l
+  x / ' , ;   j p f w v
         ␣ ⟐  ⟐ t 
 ```
  `⟐` denotes my `arcane` keys (see [**`ARCANE ⟐`**](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) section for details)
@@ -44,13 +44,13 @@ z h i e a .   p d r s l
 
 ## ANALYSER STATS
 ### [Cyanophage](https://cyanophage.github.io/index.html)
-![alt text](https://i.imgur.com/VRGQd1J.jpeg "Nordrassil Stats - Cyanophage")
+![alt text](https://i.imgur.com/VRGQd1J.jpeg "Vanilla Nordrassil Stats - Cyanophage")
 
 ### [Keysolve](https://clemenpine.github.io/keysolve-web/)
-![alt text](https://i.imgur.com/8u2yYn9.png "Nordrassil Stats - Keysolve")
+![alt text](https://i.imgur.com/8u2yYn9.png "Vanilla Stats - Keysolve")
 
 ### [Layout Playground](https://oxey.dev/playground/index.html)
-![alt text](https://i.imgur.com/zkGw5vQ.png "Nordrassil Stats - Layout Playground")
+![alt text](https://i.imgur.com/zkGw5vQ.png "Vanilla Stats - Layout Playground")
 
 ## SOME MUSINGS
 ### Things I love about **N**or**dr**as**s**i**l**:
@@ -101,7 +101,7 @@ Here is a video showcasing the way `arcane` works in practice: https://www.youtu
 
 The innermost thumb keys are the `arcane` keys, and each use of them in this video is for the `repeat` functionality only. This hopefully shows that the rhythm gained by this implementation is quite nice and flows smoothly. I found that having my left hand be responsible for `repeat` entirely was noticeably taxing, and splitting it between both hands like this solved that in addition to improving in-rolling stats.
 
-As an aside, my key labelled `j` is set to `backspace` in this showcase, because I'm currently on an arduous quest to figure out where I like it to lay.
+As an aside, my key labelled `j` is set to `backspace` in this showcase, because I'm currently on an arduous quest to figure out where I like it to lay. As of 2024-07-28, I have two `backspace` keys, which flank the thumbs (they are also `layer-taps`, and give `delete` when used with `shift`).
 
 ### Implementation
 My simple implementation is to define two [custom alternate repeat keys](https://docs.qmk.fm/#/feature_repeat_key?id=additional-alternate-keys) (one for each hand) and manually curate a library of outputs. This is very human-readable and easy to understand and configure, but the initial setup could be a bother. I haven't set up a repository for my keymap on Github, but here's a pastebin copy of my `keymap.c`, which contains everything you'll need: https://pastebin.com/j0pfKzBR
@@ -116,21 +116,20 @@ I'm sure the wizards among you can find a way to base their function on matrix p
 
 ## ABYSSAL **N**OR**DR**AS**S**I**L**
 ```
-  q y o u -   b g n m k
-z h i e a .   p d r s l
-  x / ' , ;   j c f w v
+  q y o u -   j g n m k
+z h i e a .   c d r s l
+  x / ' , ;   b p f w v
         ␣ ⟐  ⟐ t 
 ```
 `⟐` are my `arcane` keys.
 
-This is the variant that I personally use (as of 2024-07-27), which is much closer to **N**or**dr**as**s**i**l**'s original release, as that was designed specifically for my keyboard, hands, and taste (whereas *Vanilla* is designed to be better for the general audience).
+This is the variant that I personally use (as of 2024-07-28), which is much closer to **N**or**dr**as**s**i**l**'s original release, as that was designed specifically for my keyboard, hands, and taste (whereas *Vanilla* is designed to be better for the general audience).
 
 Key changes:
-- `k` swapped with `x` to lower redirects and skew workload away from my weak left pinky.
-- `q` swapped to be with `you` for a pinky->index roll when typing `qu`. I also love it mnemonically!!
-- `b` moved to the upper lateral index position, because I don't like the way my hand scrunches up to press the lower position.
-- `j`, then, takes the lower position, as it is an extremely rare letter.
-- `'` is swapped `/` because it gives more work to the middle finger (a core goal of **N**or**dr**as**s**i**l**) and feels more intuitive to my hand. Overall, I don't feel strongly about this change, and I go back and forth from time to time.
+- `x` swapped with `k` to lower redirects and skew workload away from my weak left pinky.
+- `q` swapped with `j` for a pinky->index roll when typing `qu`. I also love it mnemonically!!
+- `w` swapped with `f` because `mwv` in a row 'makes sense' to my hands. Statistically, this change is objectively a downgrade, however.
+- `'` swapped with `/` because it distributes workload more appealingly, and it feels 'wrong' to me (in practice and theory) to place such a rare character on the very stronk middle finger. Punctuation also often takes a back seat when chatting casually, so `'` doesn't result in nearly as many SFBs as corpora suggest!
 
 ## KEY COMFORT MATRIX
 For a little more context for my decision-making, I thought the key comfort matrix that I used while designing **N**or**dr**as**s**i**l** would be useful to see.
@@ -140,9 +139,9 @@ Each position considers the assigned finger's strength and dexterity, and the ef
 ```
 A lower value is better~
 
-  9 7 1 3 8   8 3 1 4 7
-9 2 1 0 0 7   7 0 0 1 2 9
-  5 6 3 4 8   9 4 3 6 5
+  9 7 1 3 9   9 3 1 4 7
+9 2 1 0 0 6   6 0 0 1 2 9
+  5 6 3 4 8   8 4 3 6 5
           0   0
 ```
 
