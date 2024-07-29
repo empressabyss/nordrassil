@@ -44,13 +44,13 @@ z h i e a .   c d r s l
 
 ## ANALYSER STATS
 ### [Cyanophage](https://cyanophage.github.io/index.html)
-![alt text](https://i.imgur.com/VRGQd1J.jpeg "Vanilla Nordrassil Stats - Cyanophage")
+![alt text](https://i.imgur.com/wvZC1Kf.jpeg "Vanilla Nordrassil Stats - Cyanophage")
 
 ### [Keysolve](https://clemenpine.github.io/keysolve-web/)
-![alt text](https://i.imgur.com/8u2yYn9.png "Vanilla Stats - Keysolve")
+![alt text](https://i.imgur.com/el2Eyhh.jpeg "Vanilla Stats - Keysolve")
 
 ### [Layout Playground](https://oxey.dev/playground/index.html)
-![alt text](https://i.imgur.com/zkGw5vQ.png "Vanilla Stats - Layout Playground")
+![alt text](https://i.imgur.com/7n19M5E.jpeg "Vanilla Stats - Layout Playground")
 
 ## SOME MUSINGS
 ### Things I love about **N**or**dr**as**s**i**l**:
