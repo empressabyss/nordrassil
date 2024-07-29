@@ -15,9 +15,9 @@ ___
 
 **Abyssal** **N**or**dr**as**s**i**l** (my personal variant)
 ```
-  q y o u -   b g n m k
+  q y o u -   b g n f k
 z h i e a .   c d r s l
-  x / ' , ;   j p f w v
+  x / ' , ;   j p m w v
         ␣ ⟐  ⟐ t 
 ```
  `⟐` denotes my `arcane` keys (see [**`ARCANE ⟐`**](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) section for details)
