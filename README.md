@@ -1,5 +1,5 @@
 # **N**OR**DR**AS**S**I**L**
-**N**or**dr**as**s**i**l** is a keyboard layout that provides an elegant and balanced typing experience by its use of a thumb-alpha, emphasis on middle fingers, deprioritisation of pinkies, and [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key (or [`arcane`](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) keys).
+**N**or**dr**as**s**i**l** is a keyboard layout designed for English that provides an elegant and balanced typing experience by its use of a thumb alpha, emphasis on middle fingers, deprioritisation of pinkies, and [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key (or [`arcane`](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) keys).
 
 
 **Vanilla** **N**or**dr**as**s**i**l** (likely preferable to most)
@@ -15,9 +15,9 @@ ___
 
 **Abyssal** **N**or**dr**as**s**i**l** (my personal variant)
 ```
-  q y o u -   b g n f k
+  q y o u -   j g n w k
 z h i e a .   c d r s l
-  x / ' , ;   j p m w v
+  x / ' , ;   b p m f v
         ␣ ⟐  ⟐ t 
 ```
  `⟐` denotes my `arcane` keys (see [**`ARCANE ⟐`**](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) section for details)
@@ -32,11 +32,11 @@ z h i e a .   c d r s l
 
 ### As **N**or**dr**as**s**i**l** took root, these ideas also were incorporated:
 - The vowel hand has slightly higher use if we include `space` and `repeat`, but the consonant hand has higher *movement*, which is more taxing (it's roughly a 40 / 60 split). I'd suggest mirroring the layout if you are left-handed.
-- `iy`, `eo`, `au` vowel block is used, flanked by `h` to maximise left-hand in-rolling and minimise redirects.
+- `iy`, `eo`, `au` vowel block is used, flanked by `h` to maximise left-hand in-rolling and minimise redirects. It also gives maximum workload to the middle finger.
   - Naturally, punctuation is on this hand, which is often not used during casual chats. This alleviates some responsibility of the left hand at those times, further minimising movement, and eliminating lateral index stretches entirely.
 - `t`, the most common consonant, was chosen on the for the thumb-alpha because it usually appears predictably at the beginning or end of words / syllables, which is easier to mentally parse than alternatives such as `e` or `r`, that would appear anywhere in a word.
   - This also answered the "`h`-vowels or `th` roll?" question that plagued my mind in previous layouts.
-- With the position of `n` (and `g`) decided, the `drsl` homerow sprouted, and the mnemonic, titular `ndrsl` homerow coalesced.
+- With the position of `n` (and `g`) decided, the `drsl` homerow sprouted, as did the mnemonic, titular `ndrsl` string.
 - Digits are appropriately burdened, based on strength and dexterity, and pinkies are especially deprioritised.
 - Extending fingers is preferred, except pinkies, which should curl.
 - Redirects, lateral stretches, and pinky / ring scissors are avoided, especially on the left hand.
@@ -108,7 +108,7 @@ My simple implementation is to define two [custom alternate repeat keys](https:/
 
 I will also gladly help anyone with this implementation if they run into issues! <3 You can message me on reddit; /u/empressabyss.
 
-I'm sure the wizards among you can find a way to base their function on matrix positions and *actually* call `repeat` or `magic` case-by-case, and I will leave that possibility in your very capable hands. I'm just a girl in a world.
+I'm sure the magi among you can find a way to base their function on matrix positions and *actually* call the `repeat` or `magic` functions case-by-case, and I will leave that possibility in your very capable hands. I'm just a girl in a world.
 
 ### Caveats
 - Layouts with a thumb-alpha (like **N**or**dr**as**s**i**l** lol xd) will unfortunately have to have said alpha as an *alternate* instead of an in-roll to avoid it being an SFB. I've had no issues with this in practice (muscle memory is doing its job), but mentally its a bother due to inconsistency. Alas, to live is to suffer.
@@ -116,9 +116,9 @@ I'm sure the wizards among you can find a way to base their function on matrix p
 
 ## ABYSSAL **N**OR**DR**AS**S**I**L**
 ```
-  q y o u -   j g n m k
+  q y o u -   j g n w k
 z h i e a .   c d r s l
-  x / ' , ;   b p f w v
+  x / ' , ;   b p m f v
         ␣ ⟐  ⟐ t 
 ```
 `⟐` are my `arcane` keys.
@@ -128,7 +128,6 @@ This is the variant that I personally use (as of 2024-07-28), which is much clos
 Key changes:
 - `x` swapped with `k` to lower redirects and skew workload away from my weak left pinky.
 - `q` swapped with `j` for a pinky->index roll when typing `qu`. I also love it mnemonically!!
-- `w` swapped with `f` because `mwv` in a row 'makes sense' to my hands. Statistically, this change is objectively a downgrade, however.
 - `'` swapped with `/` because it distributes workload more appealingly, and it feels 'wrong' to me (in practice and theory) to place such a rare character on the very stronk middle finger. Punctuation also often takes a back seat when chatting casually, so `'` doesn't result in nearly as many SFBs as corpora suggest!
 
 ## KEY COMFORT MATRIX
