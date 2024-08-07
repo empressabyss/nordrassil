@@ -5,8 +5,8 @@
 **Vanilla** **N**or**dr**as**s**i**l** (likely preferable to most)
 ```
   j y o u -   q g n w x
-z h i e a .   c d r s l
-  k ' / , ;   b p m f v
+z h i e a .   p d r s l
+  k ' / , ;   b c m f v
         ␣ *     t
 ```
 `*` denotes a [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key. It isn't essential, but highly recommended.
@@ -16,8 +16,8 @@ ___
 **Abyssal** **N**or**dr**as**s**i**l** (my personal variant)
 ```
   q y o u -   j g n w k
-z h i e a .   c d r s l
-  x / ' , ;   b p m f v
+z h i e a .   p d r s l
+  x / ' , ;   b c m f v
         ␣ ⟐  ⟐ t 
 ```
  `⟐` denotes my `arcane` keys (see [**`ARCANE ⟐`**](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) section for details)
