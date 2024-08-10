@@ -29,7 +29,7 @@ z h i e a .   p d r s l
 2. On the consonant hand, use the upper middle finger key to its utmost potential (this became `n`).
 3. Create a high-frequency middle->index roll on the top row (this became `ng`).
 4. Utilise a `repeat` key on a thumb (this allowed `s`, `l`, and `t` which repeat frequently, to sit on weaker fingers).
-	- Eventually, a `magic` key was added opposite `repeat`, and eventually this system matured into [`arcane`](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) keys.
+	- Eventually, a `magic` key was added opposite `repeat`, and this system matured into [`arcane`](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) keys in the end.
 
 Note that **N**or**dr**as**s**i**l** assumes that the user is right-handed. If you are left-handed, I recommend mirroring the layout--with the exception of `space` and `t`, where personal preference should decide.
 
@@ -68,7 +68,7 @@ ___
 - Extremely low redirects and pinky / ring scissors, a near 3:1 in:out rolling ratio, a good balance between rolls and alternation, and `repeat` / `arcane` keys make typing feel effortless, elegant, and deeply satisfying. Of the layouts I've learned (Qwerty, Dvorak, Hands Down Neu (kinda), two iterations of Just Rhea (an old layout of mine; writeup is a wip)), **N**or**dr**as**s**i**l** is by far my favourite.
 - The 83:1 ratio for in:out-rolls of the `hiea` homerow is such stuff as dreams are made on.
 - Having `t` on the consonant hand's thumb is much nicer that `r` as I've had in the past.
-- `ha` and `ld` (and `qu` in the *Abyssal* variant) bigrams! I absolutely adore pinky->index rolls! `could`, `would`, `have` (`queen`), etc. are wonderful. I also have this pattern on my symbols layer, for `<3`.
+- `ha` and `ld` (and `qu` in the *Abyssal variant*) bigrams! I absolutely adore pinky->index rolls! `could`, `would`, `have` (`queen`), etc. are wonderful. I also have this pattern on my symbols layer, for `<3`.
 - Any words that include `ng`, `nd` or `rd` go extremely hard due to index->middle finger rolling.
 - Learning this layout forced me to use homerow mods (as `t` displaced `shift`), which I had been intending to do for a long time. (This seems now to be my endgame mods system!)
 - And lastly, of course, I love `you`, reader. <3
