@@ -148,7 +148,7 @@ This is the variant that I personally use (as of 2024-07-28), which is much clos
 
 Key changes:
 - `x` swapped with `k` to lower redirects and skew workload away from my weak left pinky.
-- `q` swapped with `j` for a pinky->index roll when typing `qu`. I also love it mnemonically!!
+- `q` swapped with `j` for a pinky->index roll when typing `qu`. I also love it mnemonically: `qyou`!!
 - `'` swapped with `/` because it distributes workload more appealingly, and it feels 'wrong' to me (in practice and theory) to place such a rare character on the very stronk middle finger. Punctuation also often takes a back seat when chatting casually, so `'` doesn't result in nearly as many SFBs as corpora suggest!
 
 ## KEY COMFORT MATRIX
