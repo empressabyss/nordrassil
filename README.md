@@ -3,10 +3,10 @@
 
 **Vanilla** **N**or**dr**as**s**i**l** (likely preferable to most)
 ```
-  j y o u -   q g n w x
-z h i e a .   p d r s l
-  k ' / , ;   b c m f v
-        ␣ *     t
+j y o u -   q g n w x
+h i e a .   p d r s l z
+k ' / , ;   b c m f v
+      ␣ *     t
 ```
 `*` denotes a [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key. It isn't essential, but highly recommended.
 
@@ -14,10 +14,10 @@ ___
 
 **Abyssal** **N**or**dr**as**s**i**l** (my personal variant)
 ```
-  q y o u -   j g n w k
-z h i e a .   p d r s l
-  x / ' , ;   b c m f v
-        ␣ ⟐  ⟐ t 
+q y o u -   j g n w k
+h i e a .   p d r s l z
+x / ' , ;   b c m f v
+      ␣ ⟐  ⟐ t 
 ```
  `⟐` denotes my `arcane` keys (see [**`ARCANE ⟐`**](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) section for details)
 
@@ -137,10 +137,10 @@ ___
 
 ## ABYSSAL **N**OR**DR**AS**S**I**L**
 ```
-  q y o u -   j g n w k
-z h i e a .   p d r s l
-  x / ' , ;   b c m f v
-        ␣ ⟐  ⟐ t 
+q y o u -   j g n w k
+h i e a .   p d r s l z
+x / ' , ;   b c m f v
+      ␣ ⟐  ⟐ t 
 ```
 `⟐` are my `arcane` keys.
 
