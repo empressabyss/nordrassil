@@ -67,7 +67,7 @@ ___
 ### Things I love about **N**or**dr**as**s**i**l**:
 - Extremely low redirects and pinky / ring scissors, a near 3:1 in:out rolling ratio, a good balance between rolls and alternation, and `repeat` / `arcane` keys make typing feel effortless, elegant, and deeply satisfying. Of the layouts I've learned (Qwerty, Dvorak, Hands Down Neu (kinda), two iterations of Just Rhea (an old layout of mine; writeup is a wip)), **N**or**dr**as**s**i**l** is by far my favourite.
 - The 83:1 ratio for in:out-rolls of the `hiea` homerow is such stuff as dreams are made on.
-- Having `t` on the consonant hand's thumb is much nicer that `r` as I've had in the past.
+- Having `t` on the consonant hand's thumb is much nicer than `r` as I've had in the past.
 - `ha` and `ld` (and `qu` in the *Abyssal variant*) bigrams! I absolutely adore pinky->index rolls! `could`, `would`, `have` (`queen`), etc. are wonderful. I also have this pattern on my symbols layer, for `<3`.
 - Any words that include `ng`, `nd` or `rd` go extremely hard due to index->middle finger rolling.
 - Learning this layout forced me to use homerow mods (as `t` displaced `shift`), which I had been intending to do for a long time. (This seems now to be my endgame mods system!)
