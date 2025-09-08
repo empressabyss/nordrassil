@@ -1,18 +1,7 @@
 # **N**OR**DR**AS**S**I**L**
 **N**or**dr**as**s**i**l** is a keyboard layout designed for English that provides an elegant and balanced typing experience by its use of a thumb alpha, emphasis on middle fingers, deprioritisation of pinkies, and [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key (or [`arcane`](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) keys).
 
-**Vanilla** **N**or**dr**as**s**i**l** (likely preferable to most)
-```
-j y o u -   q g n w x
-h i e a .   p d r s l z
-k ' / , ;   b c m f v
-      ␣ *     t
-```
-`*` denotes a [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key. It isn't essential, but highly recommended.
-
-___
-
-**Abyssal** **N**or**dr**as**s**i**l** (my personal variant)
+**N**or**dr**as**s**i**l** (my personal variant)
 ```
 q y o u -   j g n w k
 h i e a .   p d r s l z
@@ -135,22 +124,6 @@ ___
 - Layouts with a thumb-alpha (like **N**or**dr**as**s**i**l** lol xd) will unfortunately have to have said alpha as an *alternate* instead of an in-roll to avoid it being an SFB. I've had no issues with this in practice (muscle memory is doing its job), but mentally its a bother due to inconsistency. Alas, to live is to suffer.
 - My `arcane` keys are set are on opposite thumb keys. They're symmetrically placed and intuitive to read as sisters or equivalents. `arcane`'s concept may not work so cleanly if your implementation looks more like [Magic Sturdy](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md), where `magic` is part of the alphas' 10x3.
 
-## ABYSSAL **N**OR**DR**AS**S**I**L**
-```
-q y o u -   j g n w k
-h i e a .   p d r s l z
-x / ' , ;   b c m f v
-      ␣ ⟐  ⟐ t 
-```
-`⟐` are my `arcane` keys.
-
-This is the variant that I personally use (as of 2024-07-28), which is much closer to **N**or**dr**as**s**i**l**'s original release, as that was designed specifically for my keyboard, hands, and taste (whereas *Vanilla* is designed to be better for the general audience).
-
-Key changes:
-- `x` swapped with `k` to lower redirects and skew workload away from my weak left pinky.
-- `q` swapped with `j` for a pinky->index roll when typing `qu`. I also love it mnemonically: `qyou`!!
-- `'` swapped with `/` because it distributes workload more appealingly, and it feels 'wrong' to me (in practice and theory) to place such a rare character on the very stronk middle finger. Punctuation also often takes a back seat when chatting casually, so `'` doesn't result in nearly as many SFBs as corpora suggest!
-
 ## KEY COMFORT MATRIX
 For a little more context for my decision-making, I thought the key comfort matrix that I used while designing **N**or**dr**as**s**i**l** would be useful to see.
 
@@ -194,6 +167,3 @@ ___
 ## OTHER LINKS (wip lol rip)
 ### **Hyjal**, my full keymap
 Naturally, **N**or**dr**as**s**i**l** sits atop **Hyjal**; you can find the write-up for my keymap here: [to-do]
-
-### General keyboard theory
-I also have some related thoughts on keyboards that I didn't want to burden **N**or**dr**as**s**i**l** or **Hyjal**'s pages with, so I've collected them here instead: [to-do]
