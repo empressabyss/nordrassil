@@ -1,5 +1,5 @@
 # **N**OR**DR**AS**S**I**L**
-**N**or**dr**as**s**i**l** is a keyboard layout designed for English that provides an elegant and balanced typing experience by its use of a thumb alpha, emphasis on middle fingers, deprioritisation of pinkies, and [`repeat`](https://docs.qmk.fm/#/feature_repeat_key "QMK Documentation for the Repeat Key Feature") key (or [`arcane`](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) keys).
+**N**or**dr**as**s**i**l** is a keyboard layout designed for English that provides an elegant and balanced typing experience by its use of a thumb alpha, emphasis on middle fingers, deprioritisation of pinkies, and [`arcane`](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) keys.
 
 **N**or**dr**as**s**i**l**
 ```
