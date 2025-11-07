@@ -1,16 +1,16 @@
 # **N**OR**DR**AS**S**I**L**
-**N**or**dr**as**s**i**l** is a keyboard layout designed for English that provides an elegant and balanced typing experience by its use of a thumb alpha, emphasis on middle fingers, deprioritisation of pinkies, and [`arcane`](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) keys.
+**N**or**dr**as**s**i**l** is a keyboard layout designed for English that provides an elegant and balanced typing experience by appropriately burdening each finger according to its relative strength and agility (including both thumbs).[`Arcane`](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) keys are also used to enhance the layout's flow.
 
 **N**or**dr**as**s**i**l**
 ```
-q y o u -   j g n w k
-h i e a .   p d r s l z
-x / ' , ;   b c m f v
+j y o u -   q g n w k
+h i e a .   m d r s p v
+x / ' , ;   z c l f b
       ␣ ⟐  ⟐ t 
 ```
  `⟐` denotes my `arcane` keys (see [**`ARCANE ⟐`**](https://github.com/empressabyss/nordrassil/blob/main/README.md#arcane-) section for details)
 
-
+# ***AS OF 2025-11-07, SOME OF THIS README IS OUTDATED***, as **N**or**dr**as**s**i**l** has been updated and improved. Please refer to [my reddit post with details of improvements](https://old.reddit.com/r/KeyboardLayouts/comments/1oqqfql/nordrassils_rejuvenation%EF%BE%9F_a_refinement_of_the/) in the meantime. 𖹭𖹭
  
 ## DESIGN 
 ### The specific ideas that I brought with me on this quest were:
